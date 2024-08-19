@@ -1,0 +1,8 @@
+desktop_url:
+  default: ""
+mobile_url:
+  default: ""
+logged_in_desktop_url:
+  default: ""
+logged_in_mobile_url:
+  default: ""

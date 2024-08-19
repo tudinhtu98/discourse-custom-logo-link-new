@@ -1,0 +1,8 @@
+en:
+  theme_metadata:
+    description: "Allows to define a custom logo link on desktop and on mobile."
+    settings:
+      desktop_url: "The URL to link the logo to on desktop for anonymous users."
+      mobile_url: "The URL to link the logo to on mobile for anonymous users."
+      logged_in_desktop_url: "The URL to link the logo to on desktop for logged in users. Accepts the following tokets to interpolate: $username, $user_id."
+      logged_in_mobile_url: "The URL to link the logo to on mobile for logged in users. Accepts the following tokets to interpolate: $username, $user_id."
